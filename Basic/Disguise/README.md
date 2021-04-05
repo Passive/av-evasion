@@ -15,3 +15,16 @@ make sure to keep it clean in there!
 
 ## Do not do everything at once
 This is an obvious one, but yes, do not go around deleting files and then creating copies of yourself!!1!!!!1
+
+---------------------------
+
+# Quick tips
+These are some quick tips / advice that you should look to for help and ideas.
+
+## Injecting and hijacking other processes
+Have you ever considered saving a DLL that you compiled into memory and later injecting it into a target process like notepad.exe?
+If you can hijack it and silently do normal tasks in the background acting as it, you will be able to do more!
+
+## Deleting the original file after you are finished
+Cleaning up is vital, make sure to collect your rubbish and cover your tracks after executing
+some of the first payloads.
