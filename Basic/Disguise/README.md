@@ -10,3 +10,6 @@ you are going to want to obfuscate your code in a non-obvious way.
 Do not act instantaniously, this is one way to mess up the whole process and let any sysadmin know they
 are about to be pwned if they do not do something quickly.
 
+---------------
+
+### Thanks for reading!
