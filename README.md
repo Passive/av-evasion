@@ -1,7 +1,7 @@
 # av-evasion
 Antivirus evasion on an advanced level, from newbie to intermediate.
 
-I will be making a new guide each day from the top of the list to the bottom. (starting from 3rd of the 4th 2021)
+Update: Lately I have been neglecting my github and shall now get back into normal routine (5/7/2021)
 
 # Basic
     - Simple Analysis Evasion: shows and teaches with an example of how to avoid analysis.
