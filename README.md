@@ -1,4 +1,5 @@
-# av-evasion
+
+# Evading the antivirus (part 1)
 Antivirus evasion on an advanced level, from newbie to intermediate.
 
 Update: Lately I have been neglecting my github and shall now get back into normal routine (5/7/2021)
@@ -13,4 +14,16 @@ Update: Lately I have been neglecting my github and shall now get back into norm
     - Persistence (extended): persistence using other techniques.
     - Code obfuscation: shows you how to make your own code obfuscation program and how they work.
     - Advanced disguising: disguise your virus using advanced techniques
-   
+# Special
+    - Writing a silent bruteforce virus
+    - Making your own "virus SDK"
+
+## Guide
+
+> Since you might not know where to start, I recommend learning
+> from https://learncpp.com it has been around for a long time and is
+> trusted by many people around the world. It has in depth
+> explainations and makes everything very simple. Start your C++
+> journey today!
+
+**Make sure to check out my other posts, thanks for reading.**
