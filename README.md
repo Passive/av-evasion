@@ -14,7 +14,7 @@ Update: Lately I have been neglecting my github and shall now get back into norm
     - Code obfuscation: shows you how to make your own code obfuscation program and how they work.
     - Advanced disguising: disguise your virus using advanced techniques
 # Special
-    - Writing a silent bruteforce virus
+    - Delivery & packaging
     - Making your own "virus SDK"
 
 ## Guide
