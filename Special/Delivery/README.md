@@ -19,9 +19,7 @@ your malware, you will have to find the weakness in the relevant site.
 Open redirections are one of the top ways to get people with no real
 knowledge on computers / websites to download terrible things. Take
 for example the URL: `https://www.google.com/url?sa=t&url=http://example.org/&usg=AOvVaw1YigBkNF7L7D2x2Fl532mA`
-It redirects you to the target site, please note this is not an active
-vulnerability in google and example.org is just a trusted domain in the
-eyes of google.
+It redirects you to the target site.
 
 ## Social engineering
 
